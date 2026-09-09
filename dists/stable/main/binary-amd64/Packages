@@ -1,0 +1,22 @@
+Package: gossms
+Version: 0.0.10
+Architecture: amd64
+Maintainer: radix29 <radu_colceriu@hotmail.com>
+Installed-Size: 19764
+Filename: pool/main/g/gossms/gossms_0.0.10_amd64.deb
+Size: 5988392
+MD5sum: 5ce52591fb3714b14b297be1cc6a5289
+SHA1: 455821cd45f9373f176a850cc950d7f79c5afbb2
+SHA256: 5bfdda231178562533abbd6fd1e37812e3130a94bfb8d22d6173400d4b9e4811
+Section: database
+Priority: optional
+Homepage: https://github.com/radix29/gossms
+Description: Terminal reimplementation of SQL Server Management Studio
+ goSSMS is a portable, cross-platform terminal TUI reimplementation of
+ SQL Server Management Studio. It connects to Microsoft SQL Server
+ 2016 SP1 and later, and offers an object explorer, a query editor
+ with results grids, execution plans, and property sheets for server
+ and database objects.
+ .
+ The binary is statically linked and has no runtime dependencies.
+

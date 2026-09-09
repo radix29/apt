@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: radix29
+Label: radix29 apt repository
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: goSSMS and other radix29 tools
+Date: Wed, 09 Sep 2026 00:25:42 UTC
+MD5Sum:
+ c13808aae55012d084b6dff7c6cea44a      869 main/binary-amd64/Packages
+ 7d7408a3a4a5cc11fec36cf51529d1b2      577 main/binary-amd64/Packages.gz
+ c126787cb6774a00449c8b35674bc63b      869 main/binary-arm64/Packages
+ 66e114e68cd88ef648cce4e83703ff27      579 main/binary-arm64/Packages.gz
+SHA256:
+ d3b46cf409baa70384f110f995c4b7316bf7c332360adbe4b938243e17539117      869 main/binary-amd64/Packages
+ 9553ed0395c24158333e3e33458898bc88814494bf199118282775e70f7a0de2      577 main/binary-amd64/Packages.gz
+ 9e08dff2c0b21afc1d9886d3e7a06282cc188d4360174168477ac7072c488224      869 main/binary-arm64/Packages
+ 2c5f888d360e355667f81b6138e0b63b19b8ca17b5bbfd6dcbb3822395221e5b      579 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERosM5f/e6CQ5dB7Dk/Jcq2FJfZMFAmqgp4YACgkQk/Jcq2FJ
+fZMdYxAAhukKibrTCsI7rcyN8P1IMrm5vRXhKxdgRmzIH4JdzNpD8shMabWZf+D5
+GtqARf2V5A0hucb9jvEoN9tuYbg7g5n8CLZMdTlkqI3VjArnj4MHa95GtnsUeDtZ
+v3oqpoodehQ+cbNVAAiPzfANqNi4JEZVWqVaRh/2SOl0x+DlYtdemYAc9HcoaTI6
+3RFH7buzH80z02Jg/p7bVccu/AKAfoUjdG6Ygn1Qg3mV7FMh7pA7F0/jnC4HlAXM
+aHSK6sgfk0zND1CF3pDiPE9Q344LSLnX07OaJZpPaRmuY/9dxPndrDBY3g8QftNv
+XKgcId8IwLgHGrXP4P5KRwIFTCbk3goghTY2k4YWFBzK+VCWHxjBDNAnnuaseXiU
+5eF+91F3Ja2JdxMmf8MtISdTKQRnPuDF9vhyMmtjXxtTPsdo7Lzc7QUfYepXqgK0
+QHZCrxkc3CAp+Kg/52APDdrBEy7qEQMLX4pgfgx7YsdNI8OCQZi+25e+aOn95Spj
+K9bWshqR5+ufmkXiNBt+pwanmvrm5L+AID9VBvf8l09pQv091WuOznQoi/IxljO1
+5iaRi/YaoamGvs7KTi/GjwgvLrHQZaQrcviwYR2zAO5uWYMqy2qeXm6beN0npghW
+1oIic0Ye+P5BV8KSx3WDztxcIviUdqfGJYT2aAc2DnzYClGN3C4=
+=2RwX
+-----END PGP SIGNATURE-----
