@@ -1,13 +1,13 @@
 Package: gossms
-Version: 0.0.10
+Version: 0.0.11
 Architecture: amd64
 Maintainer: radix29 <radu_colceriu@hotmail.com>
-Installed-Size: 19764
-Filename: pool/main/g/gossms/gossms_0.0.10_amd64.deb
-Size: 5988392
-MD5sum: 5ce52591fb3714b14b297be1cc6a5289
-SHA1: 455821cd45f9373f176a850cc950d7f79c5afbb2
-SHA256: 5bfdda231178562533abbd6fd1e37812e3130a94bfb8d22d6173400d4b9e4811
+Installed-Size: 20552
+Filename: pool/main/g/gossms/gossms_0.0.11_amd64.deb
+Size: 6182414
+MD5sum: 1bd484c2cd105a7beec5a328442b19de
+SHA1: 42af67faba7c7bdd0b509ac00499a722c7eea06c
+SHA256: ca6f5fd4abbbe662d7d34d688c2b7a10cb77db604cd4ae65cd4f609e5af634d3
 Section: database
 Priority: optional
 Homepage: https://github.com/radix29/gossms
