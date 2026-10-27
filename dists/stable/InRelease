@@ -8,30 +8,30 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: goSSMS and other radix29 tools
-Date: Tue, 20 Oct 2026 17:25:59 UTC
+Date: Tue, 27 Oct 2026 20:07:42 UTC
 MD5Sum:
- 5e959659c758b03be62b4f10c42f147b      867 main/binary-amd64/Packages
- 1e90c551ee37b6916038122620548e88      576 main/binary-amd64/Packages.gz
- b4f3afb208a0adf07ed6dbff86e24bfd      867 main/binary-arm64/Packages
- 086b807de3a8340be9ccd35ca71a7687      574 main/binary-arm64/Packages.gz
+ 4d95225a1304b93d309d72cef5216ea6      867 main/binary-amd64/Packages
+ a830b01714cafa3279fdfb51c7f55170      574 main/binary-amd64/Packages.gz
+ a6ae4147adba600335f0d48efe730579      867 main/binary-arm64/Packages
+ dc3554d797292d707cdc633b82bba307      576 main/binary-arm64/Packages.gz
 SHA256:
- a540719419828b56f9062ce4e7b588f5318cf8b6bd7a1cd15698aa7e91e3c784      867 main/binary-amd64/Packages
- ed3a933f75912c827a80491ccfaf192a28003e2891fd1b9acc10929937cb82d8      576 main/binary-amd64/Packages.gz
- 9edad2bb07535aaf29d3cc3511bc8be9e8f4d7bff570d93e229f606842fe03b9      867 main/binary-arm64/Packages
- c5631bf3bfb969f69e6fb65f2ae8fb84c0503d8840b90ca8aef47ef785af4d74      574 main/binary-arm64/Packages.gz
+ 516339429f0e97ecb9adffcd3150ec3e3b69c50570a40f9ef0be04ab7e0d3f39      867 main/binary-amd64/Packages
+ 9fe206334c4bff4f7330c6068e38097061d4ba6befdb6c7b1869d1274ccf0ba3      574 main/binary-amd64/Packages.gz
+ d25ab2f68d78c86c18e85b20da3a78bf4d73892c11256de6ce15bc1ab47cd15c      867 main/binary-arm64/Packages
+ fa82ac5403a03c9033aaca12d9d7022b37ca88ced8cbd600f52302f4ee40fff0      576 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEERosM5f/e6CQ5dB7Dk/Jcq2FJfZMFAmrXpCgACgkQk/Jcq2FJ
-fZNjWBAAvLLGl7TGdUs4RY/rmnzBgId3/g/xqVuEnAKsNhtU/UUPey8rOnWannOH
-haV1bUXE7+l13H5I8D/r07mmQM50dwdlrzrmqvZI9wcMwcg6kbQkfOsX5/VCoUVZ
-x5C/KErK3ZpBa1vJkteExqtsF9/i+Xp3K0HqfErKyVtXRzvcGVREkyfK4Emb1Wkv
-juKy5+S70jJVe1AsextmDWJvH1NmPirQu9KYuFJnrli5NBuLwQT/d+LWZ4UF7s7I
-cjHfHhcBuq53j/Ot3Qe4DxcUHMk91TE7ZLQ/51zPlIiXUy3e7VpRQLlv1/fO4TIt
-NOfiTK2WXgqnXNicJjRRdyLMWPvmBiMv+2iFAWeOr5JYQDZ4i1WKeUef7MXAzGmC
-vKEnYRCEU8sERq1DUlqD9k092KmB9jkiZc+0yawtnhK56EJ2wNdD2toR1QZYV59K
-UvgIa7OxAMIs0/PFZjAcpKdwPwKaRybIWTFQDV4P67py1VKsQRJ6P04bOGreNEJP
-cn1kqqkphupPhGxUOKtAo4LIv2yHp0nORKBe3vVTYI5MEqCRjqJ8YDKcKyglWtkH
-v7tVe2nqNlE+eCf0nDeWtNkWvayNL4cjb5yCDzwWlXdUl9ixEdqDIYuAHd06MmcP
-eILyBBIl9uWXfBN4JkdWF+Vymbuko9Ld760D9IsSoAZLMv5GxSs=
-=lXwj
+iQIzBAEBCgAdFiEERosM5f/e6CQ5dB7Dk/Jcq2FJfZMFAmrhBI8ACgkQk/Jcq2FJ
+fZNb4xAAqUels0SRTm5ThziE0zmsvce18SZKtIiQ8cO2737ulvbYmsKEHlMTT+fI
+/54bJ5qgxBSJRyOGdjXzJbXVSaywp5cPl81r9A+jB81qD6edxYyQTjIgkQRV3tnV
+yRzlSRfA13G+ISrebUZ2BFFIpcvnVuDcRRTQ6ac/enyc5Fu7f48ie3Z5IPOvbM7L
+k01kjh3pir9ObPtwT5DkJo/zfSsldquCaFDiJq0+YnkXRHVapBBAxiXS1Etukc90
+ma+1dKuy6q5go+qafVywdt8WDHP2qvom+zhuoo602GP++12zSFyJEb9y4Jg6TBAz
+pxuRwKv7huRG9UPfm5eDNVhOcxyZ990pGB5g4FekFQVMCZetBLyO56+26B5FEkGA
+Y5acAGAYHHRFgmbhP4ft7s7SOP2/F61HbjVYNBVKekFYQao1KbtnReTmRfoP0+l9
+aa5sqRi1diEBIfFqcBU1xgsPbQ0zjLWWGFKQvW+qNadPV6z6czdcLJ24SyWWJOBO
+MVUEiU9OnxVLQ6pApGQ9fTw2TdbGnGAN6j6zhNREKl4tPr/BKQcuWsG6bxOEPGKs
+0yTb08b3PplXJRvLjfLwN6rP1TB7p/4NOFGyj/uB/JqAgXSgzQFYC+k5JdUZDx7Z
+a0AAe2SD1Sx2vFbjgYJ74AOlccJpA3OtQR6WnujuKEnUF8IMDt0=
+=Ti6T
 -----END PGP SIGNATURE-----
