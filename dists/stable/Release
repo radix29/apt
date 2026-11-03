@@ -5,14 +5,14 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: goSSMS and other radix29 tools
-Date: Tue, 27 Oct 2026 20:07:42 UTC
+Date: Tue, 03 Nov 2026 16:39:51 UTC
 MD5Sum:
- 4d95225a1304b93d309d72cef5216ea6      867 main/binary-amd64/Packages
- a830b01714cafa3279fdfb51c7f55170      574 main/binary-amd64/Packages.gz
- a6ae4147adba600335f0d48efe730579      867 main/binary-arm64/Packages
- dc3554d797292d707cdc633b82bba307      576 main/binary-arm64/Packages.gz
+ 09afa392f8dbb1618e24e13297f516f5      867 main/binary-amd64/Packages
+ 6b5d0b3fb2d709d2a7c44ee50fb63ed0      577 main/binary-amd64/Packages.gz
+ 01cb88189c50c0aca5aa06436841c218      867 main/binary-arm64/Packages
+ 7d5dcedcdc876febcb0b2a6c1eddb99e      576 main/binary-arm64/Packages.gz
 SHA256:
- 516339429f0e97ecb9adffcd3150ec3e3b69c50570a40f9ef0be04ab7e0d3f39      867 main/binary-amd64/Packages
- 9fe206334c4bff4f7330c6068e38097061d4ba6befdb6c7b1869d1274ccf0ba3      574 main/binary-amd64/Packages.gz
- d25ab2f68d78c86c18e85b20da3a78bf4d73892c11256de6ce15bc1ab47cd15c      867 main/binary-arm64/Packages
- fa82ac5403a03c9033aaca12d9d7022b37ca88ced8cbd600f52302f4ee40fff0      576 main/binary-arm64/Packages.gz
+ 167ecff1ec292b89efa8aa9560a4bf3f5a63fe5eccdb0452a352f2708deeef9c      867 main/binary-amd64/Packages
+ b38328096caf0b2fc8556ffaf01da50a8948d9b1039022133a4f9517e84d4bf3      577 main/binary-amd64/Packages.gz
+ 6cdb8c5379d99f67585be6db279510c2c43cc2552c522efa20f34f73f64307af      867 main/binary-arm64/Packages
+ 0000e5fdaf528f585e17af026f02734bbf3e038b0c50dbe1196be536ef9b24ed      576 main/binary-arm64/Packages.gz
